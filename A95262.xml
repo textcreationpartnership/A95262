@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True relation of the Queens Majesties return out of Holland, and of Gods mercifull preservation of her from those great dangers, wherein her royall person was engaged by both sea and land. : Also, Her Majesties letter sent to the States about the stay of her ammunition ship. / Written by one in the same storme and ship with Her Majestie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95262</idno>
+            <idno type="STC">Wing T3032</idno>
+            <idno type="STC">ESTC R185713</idno>
+            <idno type="EEBO-CITATION">43077719</idno>
+            <idno type="OCLC">ocm 43077719</idno>
+            <idno type="VID">151832</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95262)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151832)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2277:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True relation of the Queens Majesties return out of Holland, and of Gods mercifull preservation of her from those great dangers, wherein her royall person was engaged by both sea and land. : Also, Her Majesties letter sent to the States about the stay of her ammunition ship. / Written by one in the same storme and ship with Her Majestie.</title>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>[H. Hall],</publisher>
+                  <pubPlace>Printed at Yorke, and reprinted at Oxford. :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publisher suggested by Wing.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henrietta Maria, --  Queen, consort of Charles I, King of England, 1609-1669.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151832:1"/>
+            <p>A TRVE RELATION OF THE QUEENES MAIESTIES Returne out of HOLLAND, AND, Of Gods mercifull preſervation of Her from thoſe great dangers wherein Her Royall Person was engaged both by Sea and Land.</p>
+            <p>ALSO, Her MAJESTIES Letter ſent to the STATES about the ſtay of Her Ammunition-Ship.</p>
+            <p>
+               <hi>VVritten by one in the ſame Storme and Ship with Her</hi> MAJESTIE.</p>
+            <p>Printed at <hi>Yorke,</hi> and Reprinted at <hi>Oxford.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151832:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:151832:2"/>
+            <head>A TRVE RELATION OF THE QVEENES MAIESTIES returne out of HOLLAND, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He States Generall of the United Pro<g ref="char:EOLhyphen"/>vinces,<note place="margin">Her Maje<g ref="char:EOLhyphen"/>ſties firſt ſet<g ref="char:EOLhyphen"/>ting out of <hi>Holland</hi> with a Navy of foureteene Ships.</note> (notwithſtanding many Arts, and meanes uſed to perſwade the con<g ref="char:EOLhyphen"/>trary) having prepared for Her Maje<g ref="char:EOLhyphen"/>ſties Service nine Men of Warre, with five leſſer Ships for the Baggage: Her Majeſtie on Thurſday <hi>Ianuary</hi> the 19. 1642. in the afternoone, at <hi>Sciveling,</hi> two miles from the <hi>Hague,</hi> imbarked in a more threatning, then promiſing Weather. The wind then was ſo ſlacke that it made little further way that Night, then to carry the Ships out of thoſe perillous Shoares; where, had a ſtorme riſen, they had beene in very great danger. The next day, when God had bleſſed us with Sea-roome enough, the windes began to riſe very high, and about midnight, blew a fearfull and furious ſtorme; which with the intermiſſions of ſome houres, (one day onely) Tueſday, excepted, for ſixe daies together continued yet very vehement and terrible.
+<pb n="2" facs="tcp:151832:3"/>And by reaſon of the often variation of the winds, made a moſt raging Sea, and ſo very tempeſtuous that the Ship was many times let to drive, and hull it at Sea, not being able to make any Saile with ſafety, having beene in great danger to be underſet, by the ſuddaine guſts and blaſts, which duck't and drowned the ſailes in the Seas. In this ſad and unſafe condition, did we live out all thoſe dayes, being toſſed and driven to and fro on the <hi>Doggar Sands,</hi> threatning to be our graves; in which we had ſurely beene buried, if the care of Heaven had not more mercifully come in to our helpe.</p>
+            <p>Her Majeſty ſaw and ſuffer'd all this ſo long with a Prince<g ref="char:EOLhyphen"/>ly Patience and Courage, and then Perceiving how little She did advance in Her way to <hi>Newcaſtle,</hi> tooke a Reſolution (there being no Engliſh Port elſe neer where She might ſafe<g ref="char:EOLhyphen"/>ly adventure Her Perſon) rather to return for <hi>Holland,</hi> then to tug on and work out Her Way with contrary Winds and Weathers, in ſuch enraged Seas. It was preſented and preſ<g ref="char:EOLhyphen"/>ſed to Her Majeſty, That if any ſtorme ſhould ariſe and meete Her in that ſhoare, the danger would be greater then in the o<g ref="char:EOLhyphen"/>pen Seas where She was, Her Ship being tydie and good. The<note n="*" place="margin">Sir Martin Van Tromp.</note> Admirall moſt skilfull and carefull of his Royall Charge, and the Maſters and Mariners anſwerably able and willing to do their beſt ſeruice.</p>
+            <p>But Her Majeſty kept ſtill her reſolution to returne. Where<g ref="char:EOLhyphen"/>upon, the Thurſday Sennight after She imbarked, we made our Courſe for <hi>Holland</hi> againe, and the next Day came on the Coaſt before <hi>Sciveling;</hi> God bleſſing Her with the freedome from a Tempeſt in that place of perill, where foure Ships had beene wrack't, of which we ſaw the bulke and ribs of an Eng<g ref="char:EOLhyphen"/>liſh one, which had periſhed in the late Tempeſts on the ſhoare, before our eyes.</p>
+            <p>The Admirall upon his comming in, ſhot off a Peece of
+<pb n="3" facs="tcp:151832:3"/>Ordinance to give notice of his returne; which they of the Towne tooke preſently and carried to the <hi>Hague,</hi> ſo that ſome houres before Her Majeſty could get to ſhoare, the Queene of <hi>Bohemia,</hi> the Princeſſe Royall and other of the Princeſſes; the Prince Elector, the Prince and Princeſſe of <hi>Orange</hi> with divers Perſons of Quality and Honour, were all ready in their Coaches at ſhoare, to attend Her landing; and did drive and ride into the Sea for joy and haſte to ſee that happy ſight of Her Majeſties ſafety for whoſe great perills heavy feares had layn upon them, all the time of theſe Tempeſts.</p>
+            <p>That Evening a Fiſher-boat being found out at Sea, (for contrary Tyde and Winde would ſuffer none to come from Land) the Admirall commanded and called it in, and in it, Her Majeſty with ſome Perſons of cheife quality, not with<g ref="char:EOLhyphen"/>out ſome dangerous weltrings of the Boat, by reaſon of the high Waves and Sands in that ſhallow ſhoare, came, at laſt, ſafe to Land; And having reſted and refreſhed Her Selfe ſome time at the Towne, went after to the <hi>Hague</hi> to Her Bed that Night.</p>
+            <p>On Saturday (the next Day after) the reſt who came in the three Ships with Her Majeſty (for but three came) landed all in ſafety. What was become of the other eleven, was not then knowne; but after it was. That two miſſing or miſtaking the Admiralls warning, went on to <hi>Newcaſtle,</hi> the propound<g ref="char:EOLhyphen"/>ed Port; The others, with ſome leaks, and wounds, and loſ<g ref="char:EOLhyphen"/>ſes of Maſts, and ſailes, and tacklings, came in after us, or got ſafe to other Shoares. But the two Ships wherein the Horſes were, one of them was runne on ground, all the Men and ſome Horſes being ſaved, onely that, wherein the Coachmen were, is not yet heard of; and therefore feared, to be utterly loſt.</p>
+            <p>All they in <hi>Holland,</hi> who were in great anxiety and fear for
+<pb n="4" facs="tcp:151832:4"/>the Queene at Sea, (not having ever known a greater ſtorme by Land) were very jocund and joyfull, to heare and ſee Her in ſafety.</p>
+            <p>Some ſaid, Her Majeſty would never heaveadventured Her Selfe to Sea in ſuch a Weather, but to ſhew, That a Queene feared not to be drowned. Others thought, that ſome Witch<g ref="char:EOLhyphen"/>es were made uſe of, to raiſe thoſe Winds. But all ſaw, That if any ſuch villany came from Hell, it was curbd by Heaven, in the mercifull preſervation of the Queene, and that, When God will help, the Devill cannot hurt us.</p>
+            <p>Her Majeſty was entertained at the <hi>Hague</hi> by the Prince of <hi>Orange</hi> all the time of her laſt ſtay, which was from Fryday <hi>January</hi> 27. to <hi>February</hi> the 13.</p>
+            <p>And then 7 greater Ships being got ready for Her Maje<g ref="char:EOLhyphen"/>ſty, and five leſſer for the Baggage, with one of Her owne, bought before, and now laden with Ammunition (thirteen in all:) On Munday afternoon, She went to <hi>Sciveling,</hi> and in that poore Fiſher Towne lodged three Nights, upon an un<g ref="char:EOLhyphen"/>expected occaſion. For Her Ammunition ſhip in the River of the <hi>Maze</hi> was watched by two Parliament ſhips, (as they call them) the <hi>Providence</hi> and <hi>Greyhound;</hi>) who gave out, that they would take that Ship, or fire it, or ſink it, or ſink with it. Her Majeſty knowing how much the Kings Service, and his good Subjects and Souldiers in the North were concerned in it, reſolved not to goe without it, but to ſtay there till She had it.</p>
+            <p>The Admirall thereupon having this Warrant from the States Generall, and the Prince of <hi>Orange,</hi> went with two Men of Warre to fetch it off, and was bringing it away; But was met, and bourded, and charged by the States of <hi>Holland</hi> (the Provincialls as they call them) to have that Ship ſearch<g ref="char:EOLhyphen"/>ed for Armes, and not to carry it further, but the Arms to be
+<pb n="5" facs="tcp:151832:4"/>taken out, or kept ſafe in ſome other place fitting for it. The Admirall upon this Arreſt, ſtopt and caſt Anchor; and came to acquaint the <hi>States</hi> Generall, and the Prince, with what was done, and to doe further, as it ſhould be directed.</p>
+            <p>Now began all Eyes to ſee that good Providence, which guided the Queene to returne to <hi>Holland,</hi> that Ship of Arms having beene abſolutely loſt by Her abſence; which was ſo hardly redeemed and preſerved by Her Royall Preſence, and Courage.</p>
+            <p>And by that it was. For the Queen, toucht with the ſenſe of ſo viſible an indignity, by the hands of Sir <hi>William Boſwell,</hi>
+               <note place="margin">See Her Ma<g ref="char:EOLhyphen"/>jeſties Letter Printed af<g ref="char:EOLhyphen"/>ter the Rela<g ref="char:EOLhyphen"/>tion.</note> reſi<g ref="char:EOLunhyphen"/>dent in <hi>Holland</hi> for His Majeſty, ſent to the States Generall a round and quick Letter, of the deepe reſentment, which She juſtly had of that great affront then done Her; and that the bands of Amity betwixt the King and them, muſt needs be diſſolved, if that were done and endured.</p>
+            <p>This begat a Meeting of all the States, the Prince of <hi>Orange</hi> being with them, whoſe ſpirit this affront had moved much.</p>
+            <p>In it, the matter was argued with the States of <hi>Holland,</hi> who made the ſtay. The Arreſt by many condemned, and concluded by all, that the ſhip of Armes ſhould come away with the reſt to the Queene; and the Admiralls Commiſſion enlarged to fight with any, that ſhould attempt to hinder it, or any with the Queen beſides it. The States of <hi>Holland</hi> now ſaying, they tooke the ſhip of Arms till then for a private mans, and not the Kings, for which cauſe (or colour) they before had ſtayed it.</p>
+            <p>The Admirall (thus arm'd) went to fetch it away; and af<g ref="char:EOLhyphen"/>ter ſome expoſtulations by Letters with the two Parliament ſhips, and the Meſſenger their Miniſters vaine perſwaſions to the contrary; bid them to lye ſtill, till the ſhip was gone, or to keepe off out of Cannon-ſhot, or he would ſhoot at them.
+<pb n="6" facs="tcp:151832:5"/>The ſhip being got out to Sea, the <hi>Providence</hi> made three ſhots at it, none hitting it: upon this, the Admirall ſhot at them, who inſtead of anſwering him, ſhot off a Peece on the other ſide from him, and ſo went their way. So on <hi>February</hi> ſix<g ref="char:EOLhyphen"/>teenth, being <hi>Thurſday,</hi> that ſhip with the reſt came to <hi>Scive<g ref="char:EOLhyphen"/>ling</hi> to the Queene.</p>
+            <p>THat Day, Her Majeſty imbarked againe in the Princeſſe Royall of great <hi>Brittaine</hi> (Her firſt ſhip.<note place="margin">The Queens ſecond com<g ref="char:EOLhyphen"/>ming out of <hi>Holland</hi> with a Navie of <hi>13</hi> Ships, <hi>Feb. 16. 1642.</hi>
+               </note>) And with a moſt bleſſed Weather, on a quiet Sea, by a ſoft and gentle Gale, was brought on Sunday after, within ſight of <hi>Flamborough-head.</hi> The Heavens and Winds for ſo long a time (and many Dayes before) continuing in thoſe Winter Dayes and Nor<g ref="char:EOLhyphen"/>thern Seas, almoſt miraculouſly Faire, and Intempeſtuous.</p>
+            <p>On Munday we got on as farre as <hi>Scarborough;</hi> But then the Wind blew from <hi>Newcaſtle,</hi> our onely intended Haven, juſt in our Teeth; and as God in great Mercy would have it, ſaid to us (in the Language of His Providence) <hi>Goe no further.</hi> So we fell backe into a ſafe Harbour <hi>(Burlington-bay)</hi> and caſt Anchor hard by the Shoare. As Her Majeſty rid at Anchor there, ſome of the Gentry and Country People ſent, and came, to preſent to the Queene ſome of their Country Pro<g ref="char:EOLhyphen"/>viſions, with their Joyes for Her Safety and happy Returne. Her Majeſty graciouſly accepted them, doing them the Ho<g ref="char:EOLhyphen"/>nour to let them kiſſe Her Hand.</p>
+            <p>Here God put into Her Heart another bleſſed Reſolution. It was to ſend to my Lord of <hi>Newcaſtle,</hi> to give him word of Her being there, and Her will (if he ſo direct) there to land. His Excellency having but the Weeke before, beaten the Forces out of <hi>Stamford</hi> Bridge, and made his way into the Eaſt-Ryding of <hi>Yorkeſhire,</hi> was then very happily at <hi>Pockling<g ref="char:EOLhyphen"/>ton</hi> with his Army, about twenty miles from <hi>Burlington.</hi> On
+<pb n="7" facs="tcp:151832:5"/>Tueſday came a meſſenger with tidings, That the Generall the horſe, next day about noon, would waite on Her Majeſty at ſhoare with a thouſand horſe: &amp; my Lord Generall the next day after, with the reſt of the Horſe and Foot Army. This was done accordingly. For on Wedneſday after Noone, the the Horſe appeared on the ſhoare; whereupon, Her Majeſty landed that Night at <hi>Burlington Key.</hi> All the Ordinance of the Ships ſpeaking as much to thoſe who were not near enough to ſee it. Next Day (as the Queene was at Dinner) came His Excellency, and Generall King, with the Army of Foot, and fifteene hundred more Horſe.</p>
+            <p>His Excellency told the Queene, Her landing ſo, was in a moſt happy place and time, for the Country and Army, and Her ſelfe and Her Retinue. So apparently it was. For beſides the great moiling of Men and Beaſts, this would ſave the Country a very vaſt expence of Monies for Carriages in thoſe long and ill wayes from <hi>Newcaſtle</hi> to <hi>Yorke,</hi> this being but thirty miles, and good way, from it And the Army (al<g ref="char:EOLhyphen"/>ready much wearied, in chaſes of the Enemy, from which they came but the Day before) would have beene overtoyled and weakned in ſo long Convoyes and Marches to and fro, for the Queens neceſſary conduct and Attendance; of which great trouble Her Majeſty now gave them a preſent eaſe. And both Country and Army magnified the mercifull Pro<g ref="char:EOLhyphen"/>vidence of God to both, who diſpoſed ſo of his Winds, and the Queens thoughts, to bring them ſuch an unexpected eaſe and happineſſe, to the great joy and encouragement of them all. And Her Majeſty &amp; Retinue had their ſhare in the hap<g ref="char:EOLhyphen"/>pineſſe, too. For by this meanes, the Queene came much ſooner to <hi>Yorke</hi> now, then ſhe could, had ſhe landed at Her firſt coming at <hi>Newcaſtle:</hi> And much ſafer too, then if ſhe had now arrived there, conſidering the Dangers both of the Ha<g ref="char:EOLhyphen"/>ven,
+<pb n="8" facs="tcp:151832:6"/>and ſhips, which lay in wait for Her there, fitted with Men of deſperate minds, to doe all poſſible Miſcheife, and the many Accidents and Perills, which might have befallen Her in comming thence.</p>
+            <p>Beſides all this, great advantage would have beene neceſſa<g ref="char:EOLhyphen"/>rily given, and as greedily taken from the Diverſion and Di<g ref="char:EOLhyphen"/>viſion of the Army, to make the Enemy more bold and buſie to worke his ends, by the abſence, now fruſtrated by the keeping of it in one body and place.</p>
+            <p>The Army being now by <hi>Burlington,</hi> the Queene after Din<g ref="char:EOLhyphen"/>ner rid out in a Coach to ſee it; which received great encour<g ref="char:EOLhyphen"/>agement from Her comming, and welcomed Her into the field, with many hearty Acclamations and expreſſions of their Joyes, ſuch, as much moved many to ſee them; and in them the true old Genius and Spirit of the Engliſh Nation to their Princes, of late degenerated into the ſtrange Tongue of rude Invectives and Outcryes. After fight of the Army, which Her Majeſty rid through and through, even to the new raiſed and unarmed Companies; She returned to Her Lodging at <hi>Burlington Key.</hi>
+            </p>
+            <p>
+               <note place="margin">The names of the Captains and Maſters of the Ships were, C. <hi>Hadock.</hi> Commander of the Fleet. C. <hi>Lee.</hi> C. <hi>North.</hi> C. <hi>Bedwart.</hi> C. <hi>Peacock.</hi> Maſter of the Pinnace.</note>But had another manner of Salutation ſent Her from the Sea next Morning, in a ſtrange and (till that time) utterly un<g ref="char:EOLhyphen"/>knowne and unparallelly barbarous Language. For foure Ships and a Pinnace, Voluntaries in the Parliaments Service, which came over Night into the Roade, betwixt five and ſix of the Clock next Morning made above an hundred ſhots at the houſes in the <hi>Key;</hi> for two howers ſhooting croſſe bar-ſhots, and many Bullets of twelve pound weight, and therea<g ref="char:EOLhyphen"/>bouts, and the while. One of thoſe Ships was directly planted againſt the Houſe where the Queene lay; and that, and the o<g ref="char:EOLhyphen"/>ther made many ſhots over it. Her Majeſty hereupon was ſuddainly called up out of Her Bed to avoid the Danger, and
+<pb n="9" facs="tcp:151832:6"/>leaving the houſe, went and ſat down under the Brow of an hill, which ſecured Her from the ſhot.</p>
+            <p>The Lords and Ladies (who were all thereabouts lodged) made haſt to goe with, and after the Queene; ſome of their houſes having beene ſhot through before; and the Bullets, then flying about them in the Streets and Fields as they went. And as they ſate under the hill, ſome ſlew over their heads, caſting ſome rubbage and duſt, though no Danger then upon them: ſo that of all the Queenes Company (God be thanked not one was kill'd, or hurt, or touched, though one of the com<g ref="char:EOLhyphen"/>mon Souldiers was ſore torne, and a Serjeant ſlaine out right, not farre from the Queens Lodging.</p>
+            <p>Theſe Ships, (upon advertiſement brought them of the Queenes coming) were ſeene to hie away preſently from <hi>Newcaſtle,</hi> where till then, they lay to doe ſuch Service as they were directed to. And where, they are ſaid, to have bragged, they would board, ſinke, or ſinke with the Queenes Ship, could they meete it. Gods Goodneſſe gave them not the power of tryall by Sea, though the Devills malice in them made them attempt to do that Miſchiefe by Land. And to doe it the better, in the Night they landed ſome of their Men on ſhoare, who were heard to enquire for the Queenes Lodg<g ref="char:EOLhyphen"/>ing at three of the Clocke, which they ſhot at by ſix, a ſhrowd ſuſpicion (with the reſt) what was the Mark they aimed at.</p>
+            <p>Whether by Commiſſion, and by whoſe, theſe bold Men did this barbarous Outrage, the Juſtice of Heaven and Earth will doubtleſſe concurre to examine and puniſh, that ſo great a Blot, and Burden of ſhame and Guilt may not lye on the Nation.</p>
+            <p>Upon this deliverance from the ſhot, Her Majeſty went that Day further out of their reach, from <hi>Burlington Key,</hi> to the Town. And the Ammunition ſhip (all this while in the
+<pb n="10" facs="tcp:151832:7"/>
+               <hi>Key,</hi> hit, though little hurt with all ſhots) was unladed, and the Armes carried to the Towne, and there carefully kept, in the old Church of the Monaſtery, now decayed. The Pariſh for that Sunday, being deſired for feare of danger, to goe to their Neighbour Churches at hand, or to come ſo many as could, to the Queenes Court; where by Her Majeſtie's leave (there being elſewhere no convenient Roome to be had,) Her Hou<g ref="char:EOLhyphen"/>ſhold had Service and Sermon for that Day.</p>
+            <p>At this the Country People wondered much, who be<g ref="char:EOLhyphen"/>leived all with the Queene to be Papiſts; though of all the Engliſh in Her Majeſties Houſhold; not one Woman, and but foure men be all. So willing are ſome to deceive, and o<g ref="char:EOLhyphen"/>thers to be deceived.</p>
+            <p>On Sunday after (neceſſity pleading the Paſſe) Her Maje<g ref="char:EOLhyphen"/>ſty in the after-noone, Marched with the Army and Ammu<g ref="char:EOLhyphen"/>nition from <hi>Burlington</hi> to <hi>Norburton</hi> (about foure Miles off.) Thence next Day to <hi>Malton.</hi> And (there the Foote being left) was next Day conducted by the Horſe to <hi>Yorke:</hi> No Enemy all this while oppoſing, or appearing. That Ancient City received Her Majeſty with many hearty welcoms, &amp; ſhouts, and bleſſings accompanying Her all the way She went: Sir <hi>Edmund Cooper,</hi> Lord Major, (that true and tryed Lieutenant to his Leige) and Sir <hi>Thomas Widdrington,</hi> Recorder of the City, with Speeches to that purpoſe.</p>
+            <p>So She was brought with much Joy and Honour on Tueſ<g ref="char:EOLhyphen"/>day, <hi>March</hi> the ſeventh, to Her Lodging in Sir <hi>Arthur In<g ref="char:EOLhyphen"/>grams</hi> Houſe, where a Court of Guard attends Her Majeſties ſafety, which the Guard and Bliſſe of Heaven make good to Her, as it hath hitherto beene moſt mercifully and viſibly with Her and for Her, in Her Departure, Abſence, and Re<g ref="char:EOLhyphen"/>turne; which hath beene happy, healthy, and ſafe, almoſt to a Miracle.</p>
+            <p>
+               <pb n="11" facs="tcp:151832:7"/>The Circumſtances of Her going out, were ſtrange beyond all beliefe, both at home and abroad: but the iſſues have ap<g ref="char:EOLhyphen"/>peared good and happy above all expectation. And Her ſtaying as wonderfull. That Her Majeſty and Her Retinue being about, or above two hundred Perſons (for Eleven Moneths time) in a ſtrange Lands, and unwonted Diet and Dwelling, ſhould but bury one Conſumptive Man in <hi>Holland,</hi> who brought his Death with him out of <hi>England;</hi> but keepe in, and come out with ſo good health, was an unlook't for, but not un enjoyed Bleſſing. And Her ſafety in Her com<g ref="char:EOLhyphen"/>ming out, as ſingular.</p>
+            <p>At Her Majeſties firſt comming out to Sea, the Stormes were moſt fierce and terrible for many Dayes; But at the ſe<g ref="char:EOLhyphen"/>cond, the Winds and Weather moſt faire and comfortable all the time. God Allmighty moſt mercifully preſerved and bleſſed Her Majeſty in both. And at laſt gave Her an Arri<g ref="char:EOLhyphen"/>vall moſt happy both to Her Selfe, and to many Since that He delivered Her from the villanous attempts of the ſhips at Sea, which put Her precious Life to a manifeſt Perill and ha<g ref="char:EOLhyphen"/>zard. A Signe from Heaven of Bleſſings to come upon the King and Queene, to which the Majeſty of Heaven long pre<g ref="char:EOLhyphen"/>ſerve them, and the Kingdome by them.</p>
+         </div>
+         <div type="letter">
+            <pb n="12" facs="tcp:151832:8"/>
+            <head>Her MAJESTIES Letter ſent to the STATES, concerning the ſtay of Her AMMUNITION-SHIP.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He <hi>QUEENE OF GREAT BRITTAINE,</hi> out of a deſire by all meanes to conſerve the friendſhip betwixt the King, and the Lords the States; Having omitted to take notice of very many indignities, by which She hath been provoked here; doth find Her Selfe at this preſent offended in ſo high a degree, that She cannot any longer, with the Honour of the King (Her moſt Deare Husband) with-hold this Complaint, which She now makes unto the Lords the <hi>STATES,</hi> con<g ref="char:EOLhyphen"/>cerning an Order made to ſearch and make ſtay of a Veſſell, which is Fraughted and charged with goods belonging to Her: for which notwithſtanding the <hi>STATES</hi> have already accorded their free Paſſe-Port. The <hi>QUEENE</hi> makes no difficulty to avow the tranſ<g ref="char:EOLhyphen"/>port of Ammunition, as being abſolutely neceſſary for Her ſafety: and She hath choſen to furniſh Her ſelfe by this way, rather then that of demanding a Licence: by reaſon of an Order formerly made by the <hi>STATES,</hi> to forbid the tranſport of Armes, or Ammuniti<g ref="char:EOLhyphen"/>on, either for the <hi>KING,</hi> or <hi>Parliament</hi> Which Order, the <hi>KING</hi> hath great cauſe to beleeve, very partiall for the <hi>Parliament,</hi> by putting them in equall rank with Him: But the default of Obſerva<g ref="char:EOLhyphen"/>tion of that Order, hath been yet more diſpleaſing to Her; For, that ſince that time great quantities of Ammunition have beene tranſ<g ref="char:EOLhyphen"/>ported for the ſervice of the Rebels, and Ships alſo bought to be im<g ref="char:EOLhyphen"/>ployed
+<pb n="13" facs="tcp:151832:8"/>againſt the <hi>KING.</hi> If the <hi>QUEENE</hi> hath not asked a pa<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cular Licence for all the things neceſſary for Her Service, it ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beene out of this conſideration, that ſhe might not caſt the <hi>STATE<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> upon the inconvenience, either of contradicting their owne Order, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of giving juſt offence to the <hi>KING.</hi> But ſince all the care Her Maje<g ref="char:EOLunhyphen"/>ſtie hath taken, and the precautions uſed to conſerve a good intelli<g ref="char:EOLhyphen"/>gence betweene the <hi>KING</hi> and the <hi>STATES</hi> (which is eſtabliſhed by ſo many paſt Treaties) hath produced nothing but a continuation of affronts, and prejudices to the <hi>KINGS</hi> Service. Her Majeſty is obliged to make this Declaration; <hi>That She receives this Order, given for the ſtay of that Ship, for a notable and high inju<g ref="char:EOLhyphen"/>ſtice, and an indignity which She is obliged very neerly to reſent.</hi> Wherefore Her Majeſty doth expect, That the Lords the <hi>STATES,</hi> having better conſidered the matter, will give way to the departing of that Ship, together with whatſoever is charged upon it, for Her Service; without which, Her Majeſty cannot reſolve to de<g ref="char:EOLhyphen"/>part Her Selfe. The <hi>QUEENE</hi> is obliged to repreſent to the Lords the <hi>STATES,</hi> that this injuſtice, and Affront, which She hath re<g ref="char:EOLhyphen"/>ceived by the arreſt of this Ship, cannot paſſe for leſſe then a viola<g ref="char:EOLhyphen"/>tion of the Friendſhip betwixt the <hi>KING</hi> and the <hi>STATES;</hi> the con<g ref="char:EOLhyphen"/>ſequences whereof will be very dangerous. Wherefore She doth hope, That they will not offer ſo juſt a cauſe of offence unto the <hi>KING,</hi> nor ſo great a diſpleaſure unto Her Selfe.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
